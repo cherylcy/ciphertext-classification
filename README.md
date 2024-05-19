@@ -1,4 +1,4 @@
-# EncryptedTextClassifier
+# Ciphertext Classification
 
 This repo stores notebooks of the experiments for the following task:
 
